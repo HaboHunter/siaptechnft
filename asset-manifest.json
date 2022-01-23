@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.47a57ddc.chunk.css",
+    "main.js": "./static/js/main.9656de40.chunk.js",
+    "main.js.map": "./static/js/main.9656de40.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.277595f2.js",
+    "runtime-main.js.map": "./static/js/runtime-main.277595f2.js.map",
+    "static/css/2.013db2dd.chunk.css": "./static/css/2.013db2dd.chunk.css",
+    "static/js/2.4f4fd5fe.chunk.js": "./static/js/2.4f4fd5fe.chunk.js",
+    "static/js/2.4f4fd5fe.chunk.js.map": "./static/js/2.4f4fd5fe.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.013db2dd.chunk.css.map": "./static/css/2.013db2dd.chunk.css.map",
+    "static/css/main.47a57ddc.chunk.css.map": "./static/css/main.47a57ddc.chunk.css.map",
+    "static/js/2.4f4fd5fe.chunk.js.LICENSE.txt": "./static/js/2.4f4fd5fe.chunk.js.LICENSE.txt",
+    "static/media/welcome.css": "./static/media/crypto.eeb7805d.png",
+    "static/media/general.css": "./static/media/mint-bg.057f8c66.jpg",
+    "static/media/logo2.5670247b.PNG": "./static/media/logo2.5670247b.PNG",
+    "static/media/Footer.css": "./static/media/map-pattern-footer.a4d996c1.png",
+    "static/media/platform.046e58bf.png": "./static/media/platform.046e58bf.png",
+    "static/media/s1.68b30437.png": "./static/media/s1.68b30437.png",
+    "static/media/s2.70dc7254.png": "./static/media/s2.70dc7254.png",
+    "static/media/s3.998c4970.png": "./static/media/s3.998c4970.png",
+    "static/media/s4.bcfdf0ea.png": "./static/media/s4.bcfdf0ea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.277595f2.js",
+    "static/css/2.013db2dd.chunk.css",
+    "static/js/2.4f4fd5fe.chunk.js",
+    "static/css/main.47a57ddc.chunk.css",
+    "static/js/main.9656de40.chunk.js"
+  ]
+}
